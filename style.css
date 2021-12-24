@@ -1,0 +1,22 @@
+h2 {
+    color: skyblue;
+    font-size:30;
+    font-family:cursive;
+}
+p {
+    color: skyblue;
+    font-size: 15;
+}
+button {
+    width: 150px;
+}
+body {
+    background-image: linear-gradient(purple,pink,plum,lavender);
+}
+h4 {
+    color: darkmagenta;
+}
+img {
+    width:300;
+    height:300;
+}
